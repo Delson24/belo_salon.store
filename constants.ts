@@ -26,7 +26,7 @@ export const MOCK_SERVICES: Service[] = [
     price: 500,
     duration: 60,
     description: 'Corte profissional com lavagem e finalização',
-    image: 'https://picsum.photos/400/300?random=1'
+    image: 'https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=600&q=80'
   },
   {
     id: 'srv_02',
@@ -35,7 +35,7 @@ export const MOCK_SERVICES: Service[] = [
     price: 300,
     duration: 45,
     description: 'Tratamento completo das unhas das mãos com esmaltação',
-    image: 'https://picsum.photos/400/300?random=2'
+    image: 'https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=600&q=80'
   },
   {
     id: 'srv_03',
@@ -44,7 +44,7 @@ export const MOCK_SERVICES: Service[] = [
     price: 350,
     duration: 60,
     description: 'Tratamento completo dos pés com esmaltação',
-    image: 'https://picsum.photos/400/300?random=3'
+    image: 'https://images.unsplash.com/photo-1519415387722-a1c3bbef716c?auto=format&fit=crop&w=600&q=80'
   },
   {
     id: 'srv_04',
@@ -53,7 +53,7 @@ export const MOCK_SERVICES: Service[] = [
     price: 2500,
     duration: 180,
     description: 'Massagem relaxante, limpeza de pele e hidratação',
-    image: 'https://picsum.photos/400/300?random=4'
+    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=600&q=80'
   },
   {
     id: 'srv_05',
@@ -62,7 +62,7 @@ export const MOCK_SERVICES: Service[] = [
     price: 200,
     duration: 30,
     description: 'Design com henna ou natural',
-    image: 'https://picsum.photos/400/300?random=5'
+    image: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80'
   }
 ];
 
@@ -73,7 +73,7 @@ export const MOCK_PRODUCTS: Product[] = [
     category: 'Colares',
     price: 850,
     stock: 15,
-    image: 'https://picsum.photos/300/300?random=10',
+    image: 'https://images.unsplash.com/photo-1599643478518-17488fbbcd75?auto=format&fit=crop&w=600&q=80',
     description: 'Colar fino dourado com pingente delicado'
   },
   {
@@ -82,7 +82,7 @@ export const MOCK_PRODUCTS: Product[] = [
     category: 'Conjuntos de Brincos',
     price: 650,
     stock: 20,
-    image: 'https://picsum.photos/300/300?random=11',
+    image: 'https://images.unsplash.com/photo-1630019852942-f89202989a51?auto=format&fit=crop&w=600&q=80',
     description: 'Brincos argola grande em dourado brilhante'
   },
   {
@@ -91,7 +91,7 @@ export const MOCK_PRODUCTS: Product[] = [
     category: 'Pulseiras',
     price: 1200,
     stock: 5,
-    image: 'https://picsum.photos/300/300?random=12',
+    image: 'https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=600&q=80',
     description: 'Pulseira clássica com pérolas cultivadas'
   },
   {
@@ -100,7 +100,7 @@ export const MOCK_PRODUCTS: Product[] = [
     category: 'Colares',
     price: 1200,
     stock: 8,
-    image: 'https://picsum.photos/300/300?random=13',
+    image: 'https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=600&q=80',
     description: 'Gargantilha sofisticada em preto e dourado'
   },
   {
@@ -109,7 +109,7 @@ export const MOCK_PRODUCTS: Product[] = [
     category: 'Brincos',
     price: 890,
     stock: 12,
-    image: 'https://picsum.photos/300/300?random=14',
+    image: 'https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=600&q=80',
     description: 'Brincos em formato de gota com cristais'
   }
 ];
