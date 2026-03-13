@@ -59,12 +59,6 @@ Este projeto é uma aplicação web moderna desenvolvida para o **Belo's Salon &
 
 O sistema possui dados mockados (fictícios) para teste imediato. Utilize as credenciais abaixo para testar os diferentes perfis:
 
-| Perfil | Email | Senha | Acesso |
-|---|---|---|---|
-| **Administrador** | `admin@belosalon.store` | `123` | Acesso Total (Financeiro, Config, Equipe) |
-| **Gestor** | `gestor@belosalon.store` | `123` | Gestão Operacional (Sem acesso financeiro) |
-| **Cliente** | `cliente@gmail.com` | `123` | Agendamento e Histórico Pessoal |
-
 ## 📱 Contato e Redes Sociais
 
 *   **TikTok**: [@belos.salon.e.store](https://www.tiktok.com/@belos.salon.e.store)
